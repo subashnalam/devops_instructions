@@ -1,0 +1,30 @@
+commands I used to setup github:
+
+after installing gitbash, the below commands are useful
+
+git --version
+
+touch filename
+
+git add filename
+
+git commit -m "-m means add a comment while commiting"
+
+git config --global user.email "email@gmail.com"
+
+below command will help you to link your local files to your github repository:
+
+
+git add remote origin https://github.com/subashnalam/devops_instructions.git
+
+below command will help you to add the files from local files to github repository for the first time
+
+git push origin master
+
+below command will help you to pull the letest file to local repository:
+
+git pull
+
+
+
+
