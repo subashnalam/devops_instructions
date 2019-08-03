@@ -25,6 +25,23 @@ below command will help you to pull the letest file to local repository:
 
 git pull
 
+before you edit any file do the git pull in your local repository
+
+once you edited/modified a file make sure add the file first
+
+--- git add git_instructions.txt
+
+then commit with proper comments
+
+---- git commit -m "new git instructions are added"
+
+once commited make sure you pushed the files
+
+---- git push
+
+
+
+
 
 
 
