@@ -1,0 +1,6 @@
+Azure help:
+
+while using docker with azure you need to expose some ports and need to connect them from browser then you can use help link
+
+https://stackoverflow.com/questions/48286515/how-to-connect-to-docker-on-azure-vm
+
